@@ -1,0 +1,14 @@
+# 1. Clone the repository
+git clone https://github.com/XPRO-BOTZ-OFC/ANJU-XPRO-V5
+
+# 2. Navigate to the project directory
+cd ANJU-XPRO-V5
+
+# 3. Install dependencies
+npm install
+
+# 4. Configure environment variables
+cp .env.example .env
+
+# 5. Start the bot
+npm start
